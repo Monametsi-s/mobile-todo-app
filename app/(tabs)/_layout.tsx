@@ -7,7 +7,7 @@ const TabsLayout = () => {
     <Tabs 
     screenOptions={{
       tabBarActiveTintColor: "red",
-      tabBarInactiveTintColor: "green)",
+      tabBarInactiveTintColor: "black",
       tabBarStyle: {
         backgroundColor: '#1e293b',
         borderTopWidth: 1,
@@ -32,7 +32,7 @@ const TabsLayout = () => {
       }}
       />
       <Tabs.Screen
-      name="about"
+      name="settings"
       options={{
         title: "Settings",
         tabBarIcon: ({color, size}) => (
