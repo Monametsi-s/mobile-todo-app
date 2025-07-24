@@ -20,7 +20,7 @@ const TabsLayout = () => {
         fontSize: 12,
         fontWeight: '600',
       },
-      headerShown: true, 
+      headerShown: false, 
     }}>
       <Tabs.Screen
       name='index'
