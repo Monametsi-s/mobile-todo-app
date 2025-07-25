@@ -1,5 +1,3 @@
-Directory. To learn more, launch the docs with `npx convex docs`.
-
 # Convex Functions Directory
 
 This directory contains all Convex backend functions for your project.
