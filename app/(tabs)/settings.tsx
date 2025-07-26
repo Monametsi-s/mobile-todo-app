@@ -1,7 +1,7 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const About = () => {
+const Settings = () => {
   return (
     <View>
       <Text>This is expo about screen</Text>
@@ -9,4 +9,4 @@ const About = () => {
   )
 }
 
-export default About
+export default Settings
